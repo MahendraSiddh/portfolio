@@ -7,6 +7,7 @@ import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite' // Assuming you are using the modern Tailwind setup
 
 export default defineConfig({
+  base: '/portfolio/',
   plugins: [
     // ⬅️ Make sure you call the imported function
     react(), 
