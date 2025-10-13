@@ -27,9 +27,9 @@ const DATA = {
   
   // UPDATED STRUCTURE: Retains all necessary fields for display
   codingProfiles: [
-    { platform: 'Codeforces', handle: 'BitCrafter', title:'Expert', rating: 1633, url: 'https://codeforces.com/profile/BitCrafter' },
+    { platform: 'Codeforces', handle: 'BitCrafter', title:'Expert', rating: 1691, url: 'https://codeforces.com/profile/BitCrafter' },
     { platform: 'CodeChef', handle: 'bitcrafter', title:'5 Star', rating: 2022, url: 'https://www.codechef.com/users/bitcrafter' },
-    { platform: 'LeetCode', handle: 'mahendra_siddh', title:'Knight', rating: 2101, url: 'https://leetcode.com/u/mahendra_siddh/' },
+    { platform: 'LeetCode', handle: 'mahendra_siddh', title:'Knight', rating: 2117, url: 'https://leetcode.com/u/mahendra_siddh/' },
   ],
   courses: [
     { title: 'Data Structures & Algorithms', provider: 'University Course', note: 'Advanced practice' },
